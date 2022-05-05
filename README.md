@@ -3,9 +3,9 @@
 Object detection is a computer vision task for locating instances of predefined objects in images or videos.
 
 In this tutorial, you will:
-- Perform inference with 10 well-known pre-trained object detectors <a href="http://colab.research.google.com/drive/1AVgdWQ8LTrn6MrGyamKSUT17n_F_cCG2?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- Fine tune object detectors on a custom dataset <a href="https://colab.research.google.com/drive/1pfMiefP8t2nhb92IHKgYmjfdorHSt2VD?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- Design and train your own object detector <a href="https://colab.research.google.com/drive/1_yINCuTRs9SYdPXEFTOsxoqQvWbyz1Tq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- Perform inference with 10 well-known pre-trained object detectors <a href="https://colab.research.google.com/drive/1HYo_glMobzT1_xbIoiKBDRknnb4k0ISJ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- Fine tune object detectors on a custom dataset <a href="https://colab.research.google.com/drive/1xl8nY8d8sG6DSfO6M1Ll58xw1TC2VJ-P?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- Design and train your own object detector <a href="https://colab.research.google.com/drive/1FVBKaPKiCM8zpXb7uhK2H6uipEQAEe1M?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This work is based on [MMDetection](https://github.com/open-mmlab/mmdetection): [OpenMMLab](https://github.com/open-mmlab) detection toolbox and benchmark.
 

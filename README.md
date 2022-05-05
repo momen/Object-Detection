@@ -29,7 +29,7 @@ This work is based on [MMDetection](https://github.com/open-mmlab/mmdetection): 
 
 ## Perform inference 
 
-<a href="http://colab.research.google.com/drive/1AVgdWQ8LTrn6MrGyamKSUT17n_F_cCG2?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1HYo_glMobzT1_xbIoiKBDRknnb4k0ISJ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Here is how to load a pretrained model, perfrom inference and vizualize the results.
 
@@ -51,7 +51,7 @@ And more examples ...
 
 ## Fine tune object detectors on a custome dataset
 
-<a href="https://colab.research.google.com/drive/1pfMiefP8t2nhb92IHKgYmjfdorHSt2VD?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1xl8nY8d8sG6DSfO6M1Ll58xw1TC2VJ-P?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 We can select a pre-trained model, and fine-tune it on a cutome dataset. kitti_tiny is a tiny version of the well known [KITTI](http://www.cvlibs.net/datasets/kitti/) dataset is used here as the custom dataset. 
 
@@ -117,7 +117,7 @@ Results of the fine-tuned model
 
 ## Design and train your own object detector
 
-<a href="https://colab.research.google.com/drive/1_yINCuTRs9SYdPXEFTOsxoqQvWbyz1Tq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1FVBKaPKiCM8zpXb7uhK2H6uipEQAEe1M?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Here, we  desing, inspect and train a custome object detection model. First we start with YOLOF detector and then make the following updates:   
 1. **Backbone**: Replace ResNet50 -> Pyramid Vision Transformer (PVT) 
